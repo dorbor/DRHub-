@@ -1,2 +1,0 @@
-# DRHub-
-Just another repository
